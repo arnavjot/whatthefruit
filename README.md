@@ -47,9 +47,6 @@ The project involved overseeing the entire lifecycle, from initial concept devel
 - Integration of additional payment gateways.
 - Enhanced analytics for the admin panel.
 - Additional filtering options for users in the product catalog.
-  
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
 For any inquiries or support, please contact:
